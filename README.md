@@ -25,6 +25,9 @@ The DFPlayer Mini MP3 Player For Arduino is a small and low price MP3 module wit
 * audio data sorted by folder, supports up to 100 folders, every folder can hold up to 255 songs
 * 30 level adjustable volume, 6 -level EQ adjustable
 
+* 2.0 W amplifier "YX8002"
+* MP3-Chip from [flyrontech](http://www.flyrontech.com)
+
 ### Datasheet
 * [DFPlayer_FN-M16P](https://github.com/DFRobot/DFRobotDFPlayerMini/blob/master/doc/FN-M16P%2BEmbedded%2BMP3%2BAudio%2BModule%2BDatasheet.pdf)
 * [snapshot](datasheet/FN-M16P_DFPlayer_Mini.pdf)
