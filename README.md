@@ -33,7 +33,7 @@ The DFPlayer Mini MP3 Player For Arduino is a small and low price MP3 module wit
 ## 3D
 
 ## Where to buy
-~ 6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
+~ 14 EUR for 5pcs: [AliExpress](https://www.aliexpress.com/item/32960222299.html)
 
 ## Abbildungen
 ![Front](images/front.png)
